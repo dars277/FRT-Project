@@ -36,3 +36,5 @@ App Service
 <br>Static Website
 
 # Project URL Link :
+
+https://delightful-hill-0a932230f.1.azurestaticapps.net
