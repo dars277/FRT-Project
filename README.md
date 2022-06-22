@@ -2,9 +2,9 @@
 
 # Covid-19 Website
 
-This is a 6 page Covid-19 FrontEnd Website
-It is having a Covid Bot deployed on the QnA page of the website
-Web Technologies used :
+This is a 6 page Covid-19 FrontEnd Website<br>
+It is having a Covid Bot deployed on the QnA page of the website<br>
+Web Technologies used :<br>
 HTML, CSS and JAVASCRIPT
 
 # Industry :
