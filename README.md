@@ -17,8 +17,8 @@ Web Technologies used :
 HTML, CSS and JAVASCRIPT
 
 # Azure Technologies used :
-1.Azure Bot Service #
-2.Azure Bot Framework Composer
+1.Azure Bot Service
+<br>2.Azure Bot Framework Composer
 3.QnA Maker 
 4.Static Web App
 
