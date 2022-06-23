@@ -27,6 +27,7 @@ To overcome some problem or to get protected from the deadly pandemic, this proj
 # Primary Azure Technologies used :
 Azure Bot Service
 <br>Azure Bot Framework Composer
+<br>Web App Bot
 <br>QnA Maker 
 <br>Static Web App
 
